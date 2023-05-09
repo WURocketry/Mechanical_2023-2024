@@ -1,2 +1,5 @@
 # Mechanical
-Mechanical Repository
+Mechanical Design Repository
+
+* CAD Models
+* Simulation Results
