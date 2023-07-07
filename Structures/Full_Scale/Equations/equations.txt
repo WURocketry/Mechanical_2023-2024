@@ -1,7 +1,7 @@
 ﻿"AB_Coupler_OD_Length"= 2in
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
-"AB_Coupler_Num_Screws"= 8
-"D4@Sketch1"="Cutout_Angle"
+"AB_Coupler_Num_Screws"= 6
+"Cutout_Angle" = 75
 "AB_Coupling_Screw_Diameter"= 3.5mm"Aft_Section_Length"= 40in
-"Aft_Lower_Length"= 20in"Aft_Upper_Length"= "Aft_Section_Length" - "Aft_Lower_Length" - "AB_Coupler_OD_Length"
+"Aft_Lower_Length"= 20in"Aft_Upper_Length"= "Aft_Section_Length" - "Aft_Lower_Length" - "AB_Coupler_OD_Length""Num_Cutouts" = 4"Mid_Coupler_Length" = 12in
