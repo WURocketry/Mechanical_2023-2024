@@ -1,0 +1,2 @@
+﻿"Body_Tube_OD"= 4.024in
+"Body_Tube_ID"= 3.90in"Coupler_OD" = 2in"Coupler_ID" = 1.5in"Fwd_Section_Length" = 10in"Mid_Section_Length" = 10in"Aft_Section_Length" = 10in
