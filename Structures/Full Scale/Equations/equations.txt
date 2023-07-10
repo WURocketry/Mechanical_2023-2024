@@ -1,7 +1,21 @@
-﻿"AB_Coupler_OD_Length"= 2in
-"AB_Coupling_Section_Length"= 0.375in
-"AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
-"AB_Coupler_Num_Screws"= 6
-"Cutout_Angle" = 75
-"AB_Coupling_Screw_Diameter"= 0.1065in"Aft_Section_Length"= 40in
-"Aft_Lower_Length"= 20in"Aft_Upper_Length"= "Aft_Section_Length" - "Aft_Lower_Length" - "AB_Coupler_OD_Length""Num_Cutouts" = 4"Mid_Coupler_Length" = 10in"Lead_Screw_Dist" = 2.25in"Lead_Screw_Diam" = (27/64)*1in"Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
+﻿"AB_Coupler_OD_Length"= 1in
+"AB_Coupling_Section_Length"= 0.375in
+"AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
+"Cutout_Angle" = 60
+"AB_Coupler_Num_Screws"= 6
+"Num_Cutouts" = 4
+"AB_Coupler_OD"= 6.17in
+"AB_Coupler_ID"= 5.75in
+"AB_Coupler_Surface_Diameter"= 5.998in
+"AB_Coupling_Screw_Diameter"= 0.1065in
+"Aft_Section_Length"= 40in
+"Aft_Lower_Length"= 20in
+"Aft_Upper_Length"= "Aft_Section_Length" - "Aft_Lower_Length" - "AB_Coupler_OD_Length"
+"Mid_Coupler_Length" = 10in
+"Lead_Screw_Dist" = 2.25in
+"Lead_Screw_Diam" = (27/64)*1in
+"Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
+"Bodytube_OD" = 6.17in
+"Paddle_Pin_Offset" = "Bodytube_OD"/2-"Paddle_Pin_Radius"
+"Bodytube_ID" = 5.998in
+"Paddle_Pin_Radius" = 2.7in
