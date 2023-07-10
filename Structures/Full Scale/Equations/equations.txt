@@ -12,9 +12,9 @@
 "AB_Coupler_OD_Length"= 1in
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
-"Cutout_Angle" = 60
+"Cutout_Angle" = 80
 "AB_Coupler_Num_Screws"= 6
-"Num_Cutouts" = 4
+"Num_Cutouts" = 3
 "AB_Coupler_OD"= 6.17in
 "AB_Coupler_ID"= 5.75in
 "AB_Coupler_Surface_Diameter"= 5.998in
@@ -23,7 +23,7 @@
 "Lead_Screw_Dist" = 2.25in
 "Lead_Screw_Diam" = (27/64)*1in
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
-"Paddle_Pin_Offset" = "Bodytube_OD"/2-"Paddle_Pin_Radius"
-"Paddle_Pin_Radius" = 2.7in
+"Paddle_Pin_Offset" = .25in
+"Paddle_Pin_Radius" = 2.55in
 
 "Fwd_BKHD_From_Top" = 5in
