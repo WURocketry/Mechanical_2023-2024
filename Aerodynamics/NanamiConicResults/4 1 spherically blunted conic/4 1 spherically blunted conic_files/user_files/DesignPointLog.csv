@@ -1,0 +1,54 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: 4 1 spherically blunted conic
+# Creation date: 07/08/2023 15:27:07
+# 
+# 07/08/2023 15:27:07
+# The parameters defined in the project are:
+# ,P1 - Rotate1.FD9 [degree],P2 - fx-op [N],P3 - fy-op [N],P4 - fz-op [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 0,0,212.06174,0.23080444,0.44744873
+# 
+# 07/10/2023 14:43:52
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Rotate1.FD9 [degree],P2 - fx-op [N],P3 - fy-op [N],P4 - fz-op [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 1,5,11384.211,5436.6279,-11552.958
+DP 2,10,-55609144,-7411033.5,4493392
+DP 3,15,-11139078,-79423008,-53855880
+DP 4,17.5,-201210750,-34822544,-949271810
+DP 5,22,40126.781,43717.082,-25490.975
+DP 6,-5,-2335.4753,-1390.8884,-593.27942
+# 
+# A non parametric change occurred and invalidated design point results.
+# 07/10/2023 15:21:28
+# 
+DP 5,22,340.12814,323.91006,-8.1315918
+# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: 4 1 spherically blunted conic
+# Creation date: 07/10/2023 18:29:24
+# 
+# 07/10/2023 18:29:24
+# The parameters defined in the project are:
+# ,P1 - Rotate1.FD9 [degree],P2 - fx-op [N],P3 - fy-op [N],P4 - fz-op [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 0,0,214.39081,0.21728516,0.45436096
+DP 1,5,587738.88,94700.75,-456510.28
+DP 2,10,-107686100000,-3047965600000,-2034276900000
+DP 3,15,-754327230,-34708476000,44436824000
+DP 4,17.5,-201065540,-31267464,-942730110
+DP 5,22,40150.438,43103.777,-26329.072
+DP 6,-5,-260067840,-347361980,-752409730
+DP 1,5,587738.88,94700.75,-456510.28
+DP 2,10,-107686100000,-3047965600000,-2034276900000
+DP 3,15,-754327230,-34708476000,44436824000
+DP 4,17.5,-201065540,-31267464,-942730110
+DP 5,22,40150.438,43103.777,-26329.072
+DP 6,-5,-260067840,-347361980,-752409730

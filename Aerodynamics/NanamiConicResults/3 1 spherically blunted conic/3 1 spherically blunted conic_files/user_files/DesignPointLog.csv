@@ -1,0 +1,36 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: 3 1 spherically blunted conic
+# Creation date: 07/07/2023 17:45:08
+# 
+# 07/07/2023 17:45:08
+# The parameters defined in the project are:
+# ,P1 - Rotate1.FD9 [degree]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1
+DP 0,0
+# 
+# A non parametric change occurred and invalidated design point results.
+# 07/08/2023 12:55:07
+# 
+# 
+# 07/08/2023 13:32:03
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Rotate1.FD9 [degree],P2 - fx-op [N],P3 - fy-op [N],P4 - fz-op [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 1,5,80.829056,36.415543,-1598.0879
+# 
+# 07/10/2023 14:23:07
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Rotate1.FD9 [degree],P2 - fx-op [N],P3 - fy-op [N],P4 - fz-op [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 2,10,94.865334,66.646828,-1571.0981
+DP 3,15,112.73572,96.222336,-1527.1399
+DP 4,17.5,123.06618,111.99962,-1497.5071
+DP 5,22,144.32991,140.32117,-1437.3096
+DP 6,-5,80.539558,-36.516144,-1597.2919

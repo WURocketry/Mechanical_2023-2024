@@ -106,3 +106,16 @@ $RECYCLE.BIN/
 
 # Ansys simulation files that are too large for github
 *.h5
+*.gz
+*.trn
+*.ip
+*.wbjn
+report.xml
+*.set
+*.wbdp
+*.wbpj
+.project_cache
+*.agdb
+*.dat
+*.lock
+*.bat
