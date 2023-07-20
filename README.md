@@ -2,7 +2,6 @@
 Mechanical Design Repository
 
 * CAD Models
-* Simulation Results
 
 ### Subteam Folders
 Subteams are free to modify their own folder as they like - keep all your subteam related files/articles/figures within that folder.
