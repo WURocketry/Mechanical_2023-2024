@@ -1,5 +1,6 @@
 ﻿"Bodytube_OD" = 6.17in
 "Bodytube_ID" = 5.998in
+"Motor_OD" = 4in
 
 "Fwd_Tube_Length" = 38in
 "Mid_Tube_Length" = 8in
