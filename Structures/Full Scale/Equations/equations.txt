@@ -28,6 +28,8 @@
 "Lead_Screw_Diam" = (27/64)*1in
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
 "Paddle_Pin_Offset" = .25in
-"Paddle_Pin_Radius" = 2.55in
+"Paddle_Pin_Radius" = 2.25in
+"Paddle_Gear_OD" = 3.2in
 
 "Fwd_BKHD_From_Top" = 18in
+
