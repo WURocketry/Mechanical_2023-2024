@@ -7,7 +7,7 @@
 "Aft_Section_Length"= 40in
 
 "Mid_Coupler_Length" = 13in
-"Aft_Lower_Length"= 20in
+"Aft_Lower_Length"= 22in
 "Aft_Upper_Length"= "Aft_Section_Length" - "Aft_Lower_Length" - "AB_Coupler_OD_Length"
 
 
