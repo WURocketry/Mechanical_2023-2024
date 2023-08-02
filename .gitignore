@@ -16,6 +16,8 @@
 *.log
 *.gen
 *.mas
+*.res
+*.fld
 
 
 ## VSCode
