@@ -16,6 +16,7 @@
 *.log
 *.gen
 *.mas
+~$*.sld*
 
 
 ## VSCode
