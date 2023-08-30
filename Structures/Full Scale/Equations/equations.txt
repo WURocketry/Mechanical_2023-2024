@@ -4,8 +4,6 @@
 "Fwd_Tube_Length" = 38in
 "Mid_Tube_Length" = 8in
 "Aft_Section_Length"= 40in
-"Mid_Coupler_Length" = 13in
-"Aft_Lower_Length"= 22in
 "AB_Coupler_OD_Length"= 1in
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
