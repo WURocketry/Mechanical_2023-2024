@@ -8,7 +8,7 @@
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
 "Cutout_Angle" = 80
-"AB_Paddle_Height" = 0.375in
+"AB_Paddle_Height" = 0.575in
 "AB_Coupler_Num_Screws"= 6
 "Num_Cutouts" = 3
 "AB_Coupler_OD"= 6.17in
