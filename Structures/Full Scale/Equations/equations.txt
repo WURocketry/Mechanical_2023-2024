@@ -27,3 +27,5 @@
 "Fin_Thickness"= .118in
 "Guiderail_Cutout_Diameter"= 1.5in
 "DB9_Hole_Dist" = 25mm
+"Airbrakes_Wire_Hole_Dia" = .25in
+"Airbrakes_Wire_Hole_Dist" = 1.1in
