@@ -8,7 +8,7 @@
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
 "Cutout_Angle" = 80
-"AB_Paddle_Height" = 0.375in
+"AB_Paddle_Height" = 0.575in
 "AB_Coupler_Num_Screws"= 6
 "Num_Cutouts" = 3
 "AB_Coupler_OD"= 6.17in
@@ -17,12 +17,13 @@
 "AB_Coupling_Screw_Diameter"= 0.1065in
 "AB_Central_Bushing_Length" = .75in
 "Lead_Screw_Dist" = 2.25in
-"Lead_Screw_Diam" = (27/64)*1in
+"Lead_Screw_Diam" = 11mm
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
 "Paddle_Pin_Offset" = .25in
 "Paddle_Pin_Radius" = 2.25in
 "Paddle_Gear_OD" = 3.2in
+"Drive_Gear_OD" = 1.7in
 "Fwd_BKHD_From_Top" = 18in
 "Fin_Thickness"= .118in
 "Guiderail_Cutout_Diameter"= 1.5in
-
+"DB9_Hole_Dist" = 25mm
