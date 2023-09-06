@@ -29,3 +29,4 @@
 "DB9_Hole_Dist" = 25mm
 "Airbrakes_Wire_Hole_Dia" = .25in
 "Airbrakes_Wire_Hole_Dist" = 1.1in
+"Servo_Gear_Offset" = 0.5in
