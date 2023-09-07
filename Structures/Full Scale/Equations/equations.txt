@@ -21,6 +21,7 @@
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
 "Paddle_Pin_Offset" = .25in
 "Paddle_Pin_Radius" = 2.25in
+"SS_Paddle_Pin_Radius" = 2.25*0.66in
 "Paddle_Gear_OD" = 3.2in
 "Drive_Gear_OD" = 1.7in
 "Fwd_BKHD_From_Top" = 18in
