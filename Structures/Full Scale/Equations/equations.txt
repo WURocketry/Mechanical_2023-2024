@@ -11,6 +11,8 @@
 "Cutout_Angle" = 80
 "AB_Paddle_Height" = 0.375in
 "AB_Coupler_Num_Screws"= 6
+"AB_BKHD_Thickness" = 0.375in
+"AB_Mount_From_Bottom" = 23.175in
 "Num_Cutouts" = 3
 "AB_Coupler_OD"= 6.17in
 "AB_Coupler_ID"= 5.75in
