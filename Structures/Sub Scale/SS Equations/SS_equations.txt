@@ -1,6 +1,6 @@
 ﻿"Motor_OD" = 54mm
 "Motor_Length" = 401mm
-"Aft_Section_Length" = 30in
+"Aft_Section_Length" = 32in
 "Mid_Coupler_Length" = 12in
 "AB_Coupler_OD_Length"= 1in
 "AB_Coupling_Section_Length"= 0.375in
@@ -25,8 +25,8 @@
 "Body_Tube_ID"= 3.90in
 "Coupler_OD" = 3.899in
 "Coupler_ID" = 3.755in
-"Fwd_Section_Length" = 25in
-"Mid_Section_Length" = 6in
+"Fwd_Section_Length" = 20in
+"Mid_Section_Length" = 4in
 "Aft_Upper_Tube_Length" = 10in
 "Aft_Lower_Tube_Length" = 18in
 "Nosecone_Coupler_Length" = 5in
