@@ -33,7 +33,7 @@
 "Avionics_Bulkhead_Thickness" = 0.25in
 "Avionics_Bulkhead_Lip" = 0.125in
 "Avionics_Board_Length" = "Mid_Coupler_Length" - 2*"Avionics_Bulkhead_Lip"
-"Lead_Screw_Hole_Diam" = (27/64)*1in
+"Lead_Screw_Hole_Diam" = 0.386in
 "Centering_Ring_Cutout_Dia"=1.5in
 "Fin_Thickness" = 0.118in
 "Airbrakes_Wire_Hole_Dist" = 1.1in
