@@ -1,0 +1,3 @@
+load C:/WURocketry/Mechanical/Payload/runs/supergee.avl
+mass C:/WURocketry/Mechanical/Payload/runs/supergee.mass
+case C:/WURocketry/Mechanical/Payload/runs/supergee.run
