@@ -1,4 +1,4 @@
-﻿"Motor_OD" = 54mm
+﻿"Motor_OD" = 54.4mm
 "Motor_Length" = 401mm
 "Aft_Section_Length" = 32in
 "Mid_Coupler_Length" = 12in
@@ -36,7 +36,7 @@
 "Lead_Screw_Hole_Diam" = 0.386in
 "Centering_Ring_Cutout_Dia"=1.5in
 "Fin_Thickness" = 0.118in
-"Airbrakes_Wire_Hole_Dist" = 1.1in
+"Airbrakes_Wire_Hole_Dist" = 1.1*2/3in
 "Airbrakes_Wire_Hole_Dia" = 0.25in
 "Drive_Gear_OD" = 1.7*2/3in
 "DB9_Hole_Dist" = 25mm
