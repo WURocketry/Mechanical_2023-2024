@@ -43,3 +43,9 @@
 "DB9_Relief_Width" = 0.47in
 "DB9_Relief_Hole_Offset" = 0.09in
 "Servo_Gear_Offset" = 0.5in
+
+"M4_Thread_Clearance" = 4.3mm
+"M4_Screw_Head_Diam" = 7.8mm
+"Screw_Angle" = 17.5deg
+"M4_Insert_OD" = 4.7mm
+
