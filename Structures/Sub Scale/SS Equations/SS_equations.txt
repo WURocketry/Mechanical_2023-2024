@@ -21,8 +21,6 @@
 "Paddle_Pin_Radius" = 2.25*2/3in
 "Paddle_Gear_OD" = 3.2in
 "Fwd_BKHD_From_Top" = 18in
-"Body_Tube_OD"= 4.024in
-"Body_Tube_ID"= 3.90in
 "Coupler_OD" = 3.899in
 "Coupler_ID" = 3.755in
 "Fwd_Section_Length" = 20in
@@ -43,9 +41,7 @@
 "DB9_Relief_Width" = 0.47in
 "DB9_Relief_Hole_Offset" = 0.09in
 "Servo_Gear_Offset" = 0.5in
-
 "M4_Thread_Clearance" = 4.3mm
-"M4_Screw_Head_Diam" = 8 mm
+"M4_Screw_Head_Diam" = 8mm
 "Screw_Angle" = 15deg
 "M4_Insert_OD" = 4.7mm
-
