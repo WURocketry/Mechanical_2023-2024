@@ -12,7 +12,7 @@
 "AB_Coupler_OD"= 4.024in
 "AB_Coupler_ID"= 3.7in
 "AB_Coupler_Surface_Diameter"= 3.899in
-"AB_Coupling_Screw_Diameter"= 0.1065in
+"AB_Coupling_Screw_Diameter"= 4.5mm
 "AB_Central_Bushing_Length" = 0.75in
 "Lead_Screw_Dist" = 2in
 "Lead_Screw_Diam" = 0.375in
