@@ -44,8 +44,12 @@
 "DB9_Relief_Hole_Offset" = 0.09in
 "Servo_Gear_Offset" = 0.5in
 
-"M4_Thread_Clearance" = 4.3mm
-"M4_Screw_Head_Diam" = 8 mm
-"Screw_Angle" = 15deg
-"M4_Insert_OD" = 4.7mm
+"M4_Thread_Clearance" = 3.8mm
+"M4_Screw_Head_Diam" = 6.5mm
+"Screw_Angle" = 12.5deg
+"M4_Insert_OD" = 4mm
+"Mounting_Hole_Dist" = 0.15in
+"Cam_Slot_Length" = 7mm
+"Cam_Slot_Width" = 10mm
+
 
