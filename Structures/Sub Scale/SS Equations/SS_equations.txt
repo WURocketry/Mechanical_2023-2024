@@ -47,6 +47,7 @@
 "Drive_Gear_Shaft_DIA" = "Mounting_Bracket_Centerhole_DIA" - 0.02in
 "Drive_Gear_Fillet" = 0.22in
 "Drive_Gear_ID" = 0.62in
+"Drive_Gear_Offset" = 0.01in
 
 "M3_Thread_Clearance" = 3.8mm
 "M3_Screw_Head_Diam" = 6.5mm
