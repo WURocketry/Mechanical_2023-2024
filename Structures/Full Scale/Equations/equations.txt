@@ -19,7 +19,7 @@
 "AB_Coupler_Surface_Diameter"= 5.998in
 "AB_Coupling_Screw_Diameter"= 0.1065in
 "AB_Central_Bushing_Length" = .75in
-"Lead_Screw_Dist" = 2.25in
+"Lead_Screw_Dist" = 3.4in
 "Lead_Screw_Diam" = 11mm
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
 "Paddle_Pin_Offset" = .25in
