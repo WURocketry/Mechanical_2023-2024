@@ -58,4 +58,8 @@
 "Cam_Slot_Length" = 7mm
 "Cam_Slot_Width" = 10mm
 
+"Shear_Screw_Diameter" = 0.086in
+"Shear_Screw_Hole" = 1.25in
+
+
 
