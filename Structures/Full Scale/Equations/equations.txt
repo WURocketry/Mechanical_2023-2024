@@ -36,3 +36,6 @@
 "Airbrakes_Wire_Hole_Dia" = .25in
 "Airbrakes_Wire_Hole_Dist" = 1.1in
 "Servo_Gear_Offset" = 0.5in
+
+"Shear_Screw_Diameter" = 0.086in
+"Shear_Screw_Coupler_Location" = 4.5in
