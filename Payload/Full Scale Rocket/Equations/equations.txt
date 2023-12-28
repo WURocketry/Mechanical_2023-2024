@@ -10,7 +10,7 @@
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
 "Cutout_Angle" = 80
 "AB_Paddle_Height" = 0.375in
-"AB_Coupler_Num_Screws"= 6
+"AB_Coupler_Num_Screws"= 4
 "AB_BKHD_Thickness" = 0.375in
 "AB_Mount_From_Bottom" = 23.175in
 "Num_Cutouts" = 3
@@ -18,7 +18,7 @@
 "AB_Coupler_ID"= 5.75in
 "AB_Coupler_Surface_Diameter"= 5.998in
 "AB_Coupling_Screw_Diameter"= 0.1065in
-"AB_Central_Bushing_Length" = .75in
+"AB_Central_Bushing_Length" = .4724in
 "Lead_Screw_Dist" = 3.4in
 "Lead_Screw_Diam" = 0.386in
 "Lead_Screw_Length" = ("Mid_Coupler_Length" + 2*0.375in + 2*0.5in)
