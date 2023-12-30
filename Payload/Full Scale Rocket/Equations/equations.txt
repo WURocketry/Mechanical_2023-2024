@@ -42,3 +42,7 @@
 "Airbrakes_Wire_Hole_Dist" = 1.1in
 "Servo_Gear_Offset" = 0.5in
 "FWD_Shear_Screw_Dist" = 1.5in
+"Camera_Screw_Dia" = 0.216535
+"Camera_Hole_Angle" = atn ( 2 / 3 * tan ( 12.5deg ) )
+"Coupler_OD" = 5.998
+"Coupler_ID" = 5.8
