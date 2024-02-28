@@ -3,7 +3,7 @@
 "Bodytube_ID" = 5.998in
 "Camera_Cutout_Width"=10mm
 "Camera_Cutout_Height"=7mm
-"Fwd_Tube_Length" = 40in
+"Fwd_Tube_Length" = 38.5in
 "BKHD_Screw_Diam"= 3.5mm
 "Fwd_BKHD_From_Top" = 18in
 "Shear_Screw_Diameter" = 0.086in
