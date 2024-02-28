@@ -10,7 +10,7 @@
 "Shear_Screw_Coupler_Location" = 4.5in
 "Motor_OD" = 4in
 "Mid_Coupler_Length" = 13in
-"Aft_Section_Length"= 39in
+"Aft_Section_Length"= 36in
 "AB_Coupler_OD_Length"= 1in
 "AB_Coupling_Section_Length"= 0.375in
 "AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
