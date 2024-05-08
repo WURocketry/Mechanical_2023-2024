@@ -1,0 +1,65 @@
+﻿"Motor_OD" = 54.4mm
+"Motor_Length" = 401mm
+"Aft_Section_Length" = 32in
+"Mid_Coupler_Length" = 12in
+"AB_Coupler_OD_Length"= 1in
+"AB_Coupling_Section_Length"= 0.375in
+"AB_Coupler_Length"= "AB_Coupler_OD_Length" + "AB_Coupling_Section_Length" * 2
+"Cutout_Angle" = 60
+"AB_Paddle_Height" = 0.375in
+"AB_Coupler_Num_Screws"= 4
+"Num_Cutouts" = 4
+"AB_Coupler_OD"= 4.024in
+"AB_Coupler_ID"= 3.7in
+"AB_Coupler_Surface_Diameter"= 3.899in
+"AB_Coupling_Screw_Diameter"= 4.5mm
+"AB_Central_Bushing_Length" = 0.75in
+"Lead_Screw_Dist" = 2in
+"Lead_Screw_Diam" = 0.375in
+"Lead_Screw_Length" = "Mid_Coupler_Length" + 2*0.375in + 2*0.5in
+"Paddle_Pin_Offset" = 0.25in
+"Paddle_Pin_Radius" = 2.25*2/3in
+"Paddle_Gear_OD" = 3.2in
+"Fwd_BKHD_From_Top" = 18in
+"Body_Tube_OD"= 4.024in
+"Body_Tube_ID"= 3.90in
+"Coupler_OD" = 3.899in
+"Coupler_ID" = 3.755in
+"Fwd_Section_Length" = 20in
+"Mid_Section_Length" = 4in
+"Aft_Upper_Tube_Length" = 10in
+"Aft_Lower_Tube_Length" = 18in
+"Nosecone_Coupler_Length" = 5in
+"Avionics_Bulkhead_Thickness" = 0.25in
+"Avionics_Bulkhead_Lip" = 0.125in
+"Avionics_Board_Length" = "Mid_Coupler_Length" - 2*"Avionics_Bulkhead_Lip"
+"Lead_Screw_Hole_Diam" = 0.386in
+"Centering_Ring_Cutout_Dia"= 1in
+"Fin_Thickness" = 0.118in
+"Airbrakes_Wire_Hole_Dist" = 1.1*2/3in
+"Airbrakes_Wire_Hole_Dia" = 0.25in
+"Drive_Gear_OD" = 1.7*2/3in
+"DB9_Hole_Dist" = 25mm
+"DB9_Relief_Width" = 0.47in
+"DB9_Relief_Hole_Offset" = 0.09in
+"Servo_Gear_Offset" = 0.5in
+"Mounting_Bracket_Centerhole_DIA" = 0.4in
+"Drive_Gear_Shaft_DIA" = "Mounting_Bracket_Centerhole_DIA" - 0.02in
+"Drive_Gear_Fillet" = 0.22in
+"Drive_Gear_ID" = 0.62in
+"Drive_Gear_Offset" = 0.01in
+
+"M3_Thread_Clearance" = 3.8mm
+"M3_Screw_Head_Diam" = 6.5mm
+"Screw_Angle" = 12.5deg
+"M3_Insert_OD" = 4.1mm
+"M4_Insert_OD" = 5.5mm
+"Mounting_Hole_Dist" = 0.15in
+"Cam_Slot_Length" = 7mm
+"Cam_Slot_Width" = 10mm
+
+"Shear_Screw_Diameter" = 0.086in
+"Shear_Screw_Hole" = 1.25in
+
+
+
